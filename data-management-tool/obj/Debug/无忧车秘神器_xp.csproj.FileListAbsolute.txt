@@ -1,0 +1,10 @@
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\bin\Debug\无忧车秘神器_xp.exe
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\bin\Debug\无忧车秘神器_xp.pdb
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.csprojResolveAssemblyReference.cache
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.Properties.Resources.resources
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.csproj.GenerateResource.Cache
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.exe
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.pdb
+C:\Users\Jovi Chan\Desktop\Intern\无忧车秘神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.Form1.resources
+D:\Intern\神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.exe
+D:\Intern\神器_xp\无忧车秘神器_xp\obj\Debug\无忧车秘神器_xp.pdb
